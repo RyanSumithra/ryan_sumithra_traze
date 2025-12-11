@@ -1,4 +1,4 @@
-# ryan_sumithra_traze
+# Traze
 Activity Tracker
 ## Setup
 
